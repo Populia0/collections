@@ -1,0 +1,11 @@
+C:\Users\1\source\repos\WpfApp1\ClassLibrary1\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\Users\1\source\repos\WpfApp1\ClassLibrary1\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\1\source\repos\WpfApp1\ClassLibrary1\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\1\source\repos\WpfApp1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\WpfApp1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\WpfApp1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\1\source\repos\WpfApp1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\WpfApp1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.dll
+C:\Users\1\source\repos\WpfApp1\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\Users\1\source\repos\WpfApp1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary.pdb
+C:\Users\1\source\repos\WpfApp1\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary.dll

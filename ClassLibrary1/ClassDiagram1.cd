@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WpfApp1.Models.Class">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAAAAAQAAAAEAAAAAAQAAAAEAAAAAAAAACAgA=</HashCode>
+      <FileName>Models\Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp1.Models.Student">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACAiAgAAIAAAAAAAAAAAQAAAAEAAAAAAAACAAAAgg=</HashCode>
+      <FileName>Models\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
